@@ -17,7 +17,7 @@
     width:100px;
 }
 .logo{
-    background-image: url("amzn-logo.png");
+    background-image: url("logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     height:30px;
@@ -144,7 +144,7 @@ span{
 
  /* hero-section */
  .hero-section{
-    background-image: url("amzn-1.jpg");
+    background-image: url("scroll.webp");
     background-size: cover;
     height: 350px;
     display: flex;
